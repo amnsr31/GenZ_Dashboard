@@ -1,1 +1,2 @@
 # GenZ_Dashboard
+This repository contains an interactive Excel dashboard analyzing career aspirations of Gen Z, segmented by factors such as country, gender, job preferences (remote, hybrid, on-site), social impact importance, and study abroad intentions. Key insights reveal trends in job factors, preferred working types, and commitment durations. Visualizations include bar charts, line charts, and dynamic filters, allowing users to explore aspirations and preferences across demographics effectively.
